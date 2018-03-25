@@ -1,0 +1,11 @@
+*.o
+core
+.*.swp
+a.out
+*.mod
+*.lst
+*.ptx
+*.cub
+cuda_main
+openmp_c_cublas
+openmp_c_main
